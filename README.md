@@ -22,6 +22,9 @@ TL;DR for developer documentation - a ridiculous collection of cheatsheets
 
 ---
 
+![Alt](https://repobeats.axiom.co/api/embed/fb215ea463f874e505567810cb36f77ca20a11eb.svg "Repobeats analytics image")
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) for developer notes.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rstacruz/cheatsheets)
+
